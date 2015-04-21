@@ -11,4 +11,4 @@ To get started, clone this into a folder called 'renapro' and do the follwoing:
 *   npm install -g react-native-cli
 *   react-native init renapro
 
-THen open the xcodeproj into Xcode, select a simulator and hit run.
+Then open the xcodeproj into Xcode, select a simulator and hit run.
