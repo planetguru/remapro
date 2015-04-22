@@ -1,4 +1,4 @@
-# remapro
+# renapro
 ##React Native Test Project
 
 Pull photos from flickr and show them in a ListView - Playing around with Facebook's React Native
